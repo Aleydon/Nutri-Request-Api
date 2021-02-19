@@ -36,19 +36,10 @@ NodeJs: :link: https://nodejs.org/en/
    ```
 
 
-
-<h4 align="center">:arrow_down_small:   Navigate to film component: </h4>
-
-
- 
-
-
 ---  
 
 
 <h4 align="center">:id:   Inserting parameters:</h4> 
-
-
 
 
 
