@@ -39,9 +39,6 @@ NodeJs: :link: https://nodejs.org/en/
 ---  
 
 
-<h4 align="center">:id:   Inserting parameters:</h4> 
-
-
 
 
 <p align="center">
